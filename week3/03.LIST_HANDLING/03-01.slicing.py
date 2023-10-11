@@ -1,0 +1,5 @@
+nums = [0, 1, 2, 3, 4, 5]
+print(nums[1:4])  # [1, 2, 3]
+print(nums[:4])   # [0, 1, 2, 3]
+print(nums[3:])   # [3, 4, 5]
+print(nums[::2])  # [0, 2, 4]
